@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=WiFi_Reconnect
+Comment=This script will keep the WiFi connected after constant shutdowns
+Exec=/opt/WiFi_QCA6164_Fix.sh
+Icon=/home/san/Imágenes/icons/Network-Wi-Fi-icon.png
+Terminal=true
+Type=Application
